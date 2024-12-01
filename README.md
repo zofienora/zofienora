@@ -29,6 +29,8 @@ I'm currently diving deeper into:
 
 ## 🤝 Connect with Me
 I'm always excited to collaborate on interesting projects or just chat about tech! Reach out via:
+
+- 🐦 [Dev.to](https://dev.to/zofienora) - Follow my story here!
 - 🌐 [Personal website is loading]
 - 🐦 https://www.codecademy.com/profiles/zofienora
 
