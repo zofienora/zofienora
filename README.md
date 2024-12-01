@@ -6,9 +6,9 @@ Here's a bit more about me:
 ---
 
 ## 🌟 About Me
-- 🏷 **Sophie:**
+- 🏷 **Sophie**
 - 💼 **Currently in HealthCare**
-- 🎓 **Culture Science and currently learning Frontend Development:**
+- 🎓 **Culture Science and currently learning Frontend Development**
 - 🌍 **Europe** 
 - 🎯 **Interests: Languages, Sports, Books, Productivity**
 
