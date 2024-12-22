@@ -1,6 +1,6 @@
 # Hi there, I'm Sophie 👋
 
-Welcome to my GitHub! I'm an aspiring Frontend Developer, passionate about the arctic, sports & books. I'm constantly learning, building, and sharing projects that solve real-world problems and spark curiosity. 
+I'm an aspiring Frontend Developer, passionate about the arctic, sports & books. I'm constantly learning, building, and sharing projects that solve real-world problems and spark curiosity. 
 Here's a bit more about me:
 
 ---
