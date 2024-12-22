@@ -1,4 +1,4 @@
-# Hi there, I'm Nora 👋
+# Hi, I'm Nora 👋
 
 I'm an aspiring Frontend Developer, passionate about design, sports & books. I'm constantly learning, building, and sharing projects that solve real-world problems and spark curiosity. 
 Here's a bit more about me:
