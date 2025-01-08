@@ -1,6 +1,6 @@
 # Hi, I'm Nora 👋
 
-I'm a Frontend Developer, passionate about design, sports & books. I'm constantly learning, building, and sharing projects that solve real-world problems and spark curiosity. 
+I'm a Frontend Developer, passionate about design and collaboration.
 Here's a bit more about me:
 
 ---
