@@ -1,35 +1,29 @@
 # Hi, I'm Nora 👋
 
-I'm a Frontend Developer, passionate about design and collaboration.
+I'm a Frontend Developer, passionate about design and collaboration. 
+Currently working on projects in my free time. 
+When I’m not coding, I’m hitting the gym, 
+getting lost in gaming and anime, 
+or taking city walks to calm down 
+and get inspired.
 
 
----
+## My Tech Toolbox
+- Languages: HTML, CSS, JavaScript
+- Frameworks/Libraries: working on React
 
-## 🌟 About Me
-- 🎓 **Culture Science / Frontend Development**
-- 🌍 **Europe** 
-- 🎯 **Interests: Languages, Culture, Sports, Design, Fashion**
-
----
-
-## 🛠 My Tech Toolbox
-- 💻 **Languages: HTML, CSS, JavaScript**
-- 🧰 **Frameworks/Libraries: working on React**
-
----
-
-## 📚 Current Learning Journey
+## Current Learning Journey
 I'm currently diving deeper into:
-- 🔍 JavaScript, React & Accessibility 
-- 📈 Notion, Productivity & Networking
+- JavaScript, React & Accessibility 
+- Notion, Productivity & Networking
 
 ---
 
-## 🤝 Connect with Me
+## Connect with Me
 I'm always excited to collaborate on interesting projects or just chat about tech! Reach out via:
 
-- [Portfolio Website] (https://sophienora.com)
-- [codecademy](https://www.codecademy.com/profiles/zofienora) -
+- [Website](https://sophienora.com)
+- [codecademy](https://www.codecademy.com/profiles/zofienora) 
 - [Blog](https://noracodes.hashnode.dev)
 - [LinkedIn](https://www.linkedin.com/feed/)
 - [Dev.to](https://dev.to/zofienora)
