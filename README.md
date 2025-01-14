@@ -1,7 +1,7 @@
 # Hi, I'm Nora 👋
 
 I'm a Frontend Developer, passionate about design and collaboration.
-Here's a bit more about me:
+
 
 ---
 
@@ -28,11 +28,12 @@ I'm currently diving deeper into:
 ## 🤝 Connect with Me
 I'm always excited to collaborate on interesting projects or just chat about tech! Reach out via:
 
-- [Dev.to](https://dev.to/zofienora) - Follow my story here!
-- [Personal website is loading]
+- [Portfolio Website] (https://sophienora.com)
 - [codecademy](https://www.codecademy.com/profiles/zofienora) -
 - [Blog](https://noracodes.hashnode.dev)
 - [LinkedIn](https://www.linkedin.com/feed/)
+- [Dev.to](https://dev.to/zofienora)
+- [CodePen]((https://codepen.io/zofienora))
 
 ---
 
