@@ -27,7 +27,7 @@ I'm always excited to collaborate on interesting projects or just chat about tec
 - [Blog](https://noracodes.hashnode.dev)
 - [LinkedIn](https://www.linkedin.com/feed/)
 - [Dev.to](https://dev.to/zofienora)
-- [CodePen]((https://codepen.io/zofienora))
+- [CodePen](https://codepen.io/zofienora)
 
 ---
 
