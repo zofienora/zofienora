@@ -1,4 +1,4 @@
-# Hi, I'm Sophie Nora 👋
+# Hi, I'm Nora 👋
 
 I'm a Frontend Developer, passionate about design and collaboration. 
 Currently working on projects in my free time. 
