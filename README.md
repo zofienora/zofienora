@@ -1,9 +1,8 @@
 # Hi, I'm Nora 👋
 
 I'm a Frontend Developer, passionate about design and collaboration. 
-Currently working on projects in my free time. 
-When I’m not coding, I’m hitting the gym, 
-getting lost in gaming and anime, 
+
+When I’m not coding, I’m hitting the gym
 or taking city walks to calm down 
 and get inspired.
 
