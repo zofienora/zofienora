@@ -1,4 +1,4 @@
-# Hi, I'm Nora 👋
+# Hi, I'm Nori 👋
 
 I'm a Frontend Developer, passionate about design and collaboration. 
 
