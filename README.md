@@ -1,4 +1,4 @@
-# Hi, I'm Nori 👋
+# Hi, I'm Sophie Nora 👋
 
 I'm a Frontend Developer, passionate about design and collaboration. 
 
