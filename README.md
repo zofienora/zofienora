@@ -21,7 +21,7 @@ I'm currently diving deeper into:
 ## Connect with Me
 I'm always excited to collaborate on interesting projects or just chat about tech! Reach out via:
 
-- [Website](https://sophienora.com)
+- [Website](https://sophienora.codes)
 - [codecademy](https://www.codecademy.com/profiles/zofienora) 
 - [Blog](https://noracodes.hashnode.dev)
 - [LinkedIn](https://www.linkedin.com/feed/)
