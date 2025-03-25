@@ -1,7 +1,6 @@
-# Hi, I'm Sophie Nora 👋
+# Hi, I'm Sophie Nora
 
 I'm a Frontend Developer, passionate about design and collaboration. 
-
 When I’m not coding, I’m hitting the gym
 or taking city walks to calm down 
 and get inspired.
@@ -9,12 +8,11 @@ and get inspired.
 
 ## My Tech Toolbox
 - Languages: HTML, CSS, JavaScript
-- Frameworks/Libraries: working on React
+- Frameworks/Libraries: React
 
 ## Current Learning Journey
 I'm currently diving deeper into:
-- JavaScript, React & Accessibility 
-- Notion, Productivity & Networking
+- TypeScript
 
 ---
 
@@ -22,10 +20,8 @@ I'm currently diving deeper into:
 I'm always excited to collaborate on interesting projects or just chat about tech! Reach out via:
 
 - [Website](https://sophienora.codes)
-- [codecademy](https://www.codecademy.com/profiles/zofienora) 
 - [Blog](https://noracodes.hashnode.dev)
 - [LinkedIn](https://www.linkedin.com/feed/)
-- [Dev.to](https://dev.to/zofienora)
 - [CodePen](https://codepen.io/zofienora)
 
 ---
