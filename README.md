@@ -1,6 +1,6 @@
 # Hi, I'm Sophie Nora 👋
 
-I'm a **Frontend Developer** with a passion for **crafting beautiful, user-friendly interfaces**. I love combining **design and code** to build seamless digital experiences.
+I'm a **Frontend Developer** with a passion for crafting beautiful, user-friendly interfaces. I love combining **design and code** to build seamless digital experiences.
 I value strong communication and collaborative teamwork, which helps me create better solutions and a positive work environment.
 When I’m not coding, you’ll find me **at the gym, exploring the city on long walks, or gathering inspiration from everyday life**.
 
