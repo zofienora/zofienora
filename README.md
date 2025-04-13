@@ -1,13 +1,16 @@
 # Hi, I'm Sophie Nora 👋
 
-I'm a **Frontend Developer** with a passion for crafting beautiful, user-friendly interfaces. I love combining **design and code** to build seamless digital experiences.
-I value strong communication and collaborative teamwork, which helps me create better solutions and a positive work environment.
-When I’m not coding, you’ll find me **at the gym, exploring the city on long walks, or gathering inspiration from everyday life**.
+I’m a **self-taught Frontend Developer** with a passion for crafting beautiful, user-friendly interfaces. I love combining design and code to create seamless digital experiences.
+
+I value strong communication and teamwork, which help me build better solutions and foster a positive work environment. I’m naturally curious and always eager to understand how things work — and how to make them better. Whether I’m refining a layout, improving accessibility, or diving into a new framework, I stay committed to growing every day.
+
+🚀 I’m currently looking for my first frontend developer role — excited to join a team where I can learn, build, and contribute. Open to international opportunities.
+
 
 ## 🛠 My Tech Toolbox  
 - **Languages:** HTML, CSS, JavaScript  
 - **Frameworks/Libraries:** React  
-- **Currently Learning:** TypeScript  
+- **Currently Learning:** TypeScript, Tailwind CSS  
 
 ## 💡 Let's Connect!  
 I’m always open to **collaborations, tech discussions, and new opportunities**. Feel free to reach out:  
