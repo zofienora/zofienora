@@ -1,6 +1,6 @@
 # Hi, I'm Sophie Nora 👋
 
-I’m a **self-taught Frontend Developer** with a passion for crafting beautiful, user-friendly interfaces. I love combining design and code to create seamless digital experiences.
+I’m a **Frontend Developer** with a passion for crafting beautiful, user-friendly interfaces. I love combining design and code to create seamless digital experiences.
 
 I value strong communication and teamwork, which help me build better solutions and foster a positive work environment. I’m naturally curious and always eager to understand how things work — and how to make them better. Whether I’m refining a layout, improving accessibility, or diving into a new framework, I stay committed to growing every day.
 
