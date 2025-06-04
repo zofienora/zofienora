@@ -6,7 +6,6 @@ I value strong communication and teamwork, which help me build better solutions 
 
 🚀 I’m currently looking for my first frontend developer role — excited to join a team where I can learn, build, and contribute. Open to international opportunities.
 
-![](./profile-3d-contrib/profile-green-animate.svg)
 
 
 ## 🛠 My Tech Toolbox  
@@ -28,3 +27,4 @@ I’m always open to **collaborations, tech discussions, and new opportunities**
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zofienora&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zofienora&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
+![](./profile-3d-contrib/profile-green-animate.svg)
