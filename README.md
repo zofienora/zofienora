@@ -6,6 +6,8 @@ I value strong communication and teamwork, which help me build better solutions 
 
 🚀 I’m currently looking for my first frontend developer role — excited to join a team where I can learn, build, and contribute. Open to international opportunities.
 
+![](./profile-3d-contrib/profile-green-animate.svg)
+
 
 ## 🛠 My Tech Toolbox  
 - **Languages:** HTML, CSS, JavaScript  
