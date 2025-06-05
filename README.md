@@ -28,3 +28,5 @@ I’m always open to **collaborations, tech discussions, and new opportunities**
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zofienora&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ![](./profile-3d-contrib/profile-green-animate.svg)
+
+![](./profile-3d-contrib/profile-green-animate.svg)
