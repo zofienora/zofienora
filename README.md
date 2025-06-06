@@ -9,9 +9,9 @@ I value strong communication and teamwork, which help me build better solutions 
 
 
 ## 🛠 My Tech Toolbox  
-- **Languages:** HTML, CSS, JavaScript  
-- **Frameworks/Libraries:** React  
-- **Currently Learning:** TypeScript, Tailwind CSS, Three.js
+- **Languages:** HTML, CSS, JavaScript, TypeScript
+- **Frameworks/Libraries:** React, Tailwind CSS 
+- **Currently Learning:** Three.js
 
 ## 💡 Let's Connect!  
 I’m always open to **collaborations, tech discussions, and new opportunities**. Feel free to reach out:  
