@@ -14,7 +14,7 @@ I value strong communication and teamwork, which help me build better solutions 
 - **Currently Learning:** Three.js
 
 ## 💡 Let's Connect!  
-I’m always open to **collaborations, tech discussions, and new opportunities**. Feel free to reach out:  
+I’m always open to collaborations, tech discussions, and new opportunities. Feel free to reach out:  
 
 - 🌐 [Website](https://sophienora.codes)  
 - ✍️ [Blog](https://noracodes.hashnode.dev)  
