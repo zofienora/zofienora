@@ -1,4 +1,4 @@
-# Hi, I'm Nori 👋
+# Hi, I'm Nori :)
 
 I’m a **Frontend Developer** and aspiring **UI/UX Designer** with a passion for crafting beautiful, user-friendly interfaces. I love combining design and code to create seamless digital experiences.
 
