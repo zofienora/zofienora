@@ -16,7 +16,7 @@ I’m always open to collaborations, tech conversations, and new opportunities. 
 
 - [Website](https://sophienora.codes)  
 - [Blog](https://noracodes.hashnode.dev)  
-- LinkedIn](https://www.linkedin.com/feed/)  
+- [LinkedIn](https://www.linkedin.com/feed/)  
 - [CodePen](https://codepen.io/zofienora)
 
 ---
