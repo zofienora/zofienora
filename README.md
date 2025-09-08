@@ -15,7 +15,6 @@ I’m currently looking for my first frontend developer role — excited to join
 I’m always open to collaborations, tech conversations, and new opportunities. Feel free to reach out:  
 
 - [Website](https://sophienora.codes)  
-- [Blog](https://noracodes.hashnode.dev)  
 - [LinkedIn](https://www.linkedin.com/feed/)  
 - [CodePen](https://codepen.io/zofienora)
 
