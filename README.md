@@ -1,4 +1,4 @@
-# Hi, I’m Nori — Frontend Developer & Creative Technologist 
+# Hi, I’m Nori 
 
 I’m a frontend developer and UI/UX designer with a love for crafting thoughtful, user-focused digital experiences. I like building things that are both elegant and functional. I’m endlessly curious about the small details that make good design feel effortless.  
 
