@@ -6,14 +6,14 @@ Currently looking for my first frontend developer role — excited to join a tea
 
 ## My Tech Toolbox  
 - **Languages:** HTML, CSS, JavaScript, TypeScript
-- **Frameworks/Libraries:** React, Tailwind CSS
+- **Frameworks/Libraries:** React, Next.js, Tailwind CSS
 - **Design:** Figma, UI/UX principles, accessibility (a11y)  
-- **Currently Learning:** Three.js
+- **Currently Experimenting:** Three.js
 - **AI Tools**
 
 ## Currently
 - Codecademy’s **UX Design Certificate**
-- **AI Bootcamp**
+- Harvards Programming Certificate
 
 ## Let's Connect!  
 I’m always open to collaborations, tech conversations, and new opportunities. Feel free to reach out:  
