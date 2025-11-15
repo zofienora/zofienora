@@ -9,7 +9,7 @@ Currently looking for my first frontend developer role — excited to join a tea
 - **Frameworks/Libraries:** React, Tailwind CSS
 - **Design:** Figma, UI/UX principles, accessibility (a11y)  
 - **Currently Learning:** Three.js
-- **AI Tools:** Claude
+- **AI Tools**
 
 ## Currently
 - Codecademy’s **UX Design Certificate**
