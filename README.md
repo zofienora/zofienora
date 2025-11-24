@@ -37,10 +37,5 @@ Always open to collaborations, mentorship, and tech conversations.
 
 ---
 
-> "High-value, ambitious woman becoming a highly-paid frontend developer & designer — and I look fine as fuck doing it."
-
----
-
-
 ![](./profile-3d-contrib/profile-gitblock.svg)
 
