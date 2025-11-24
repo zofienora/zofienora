@@ -10,7 +10,7 @@ I’m a frontend developer who loves building smooth, intuitive, and user-friend
 - **Design:** Figma, UI/UX design, accessibility (a11y)  
 - **Currently Exploring:** Three.js, Node.js, Framer Motion  
 - **Tools:** Git, GitHub, VS Code, Vercel, Chrome DevTools  
-- **AI Tools:** Cursa, Claude, ChatGPT, Notion AI
+- **AI Tools:** Cursor, Claude, ChatGPT, Notion AI
 
 ## 🎓 Currently Learning
 - Codecademy’s **UX Design Certificate**
