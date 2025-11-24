@@ -1,6 +1,6 @@
 # Hi, I’m Nori 👋
 
-I'm a **frontend developer** with a passion for thoughtful, user-focused digital experiences — and a curiosity that stretches across all things tech. I enjoy crafting elegant UIs, digging into the details, and learning how things work under the hood. Whether I'm running things in the terminal or running on a treadmill, I bring energy, focus, and discipline to everything I do.
+I’m a frontend developer who loves building smooth, intuitive, and user-friendly web experiences. I’m super curious about tech and always excited to learn — from tiny design details to the big picture of how apps work. Whether I’m running code in the terminal or running on the treadmill, I like keeping things moving.
 
 🎯 **Currently seeking my first frontend developer role** — excited to join a collaborative team where I can grow, contribute, and build meaningful web experiences. Open to **remote and international** opportunities.
 
