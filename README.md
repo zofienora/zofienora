@@ -33,7 +33,7 @@ Always open to collaborations, mentorship, and tech conversations.
 - 🌐 [sophienora.codes](https://sophienora.codes)  
 - 💼 [LinkedIn](https://www.linkedin.com/in/sophie-nora-keil)  
 - 🧪 [CodePen](https://codepen.io/zofienora)  
-- 💌 Email: [sophienora92@gmail.com](mailto:sophienora92@gmail.com)
+- 💌 [sophienora92@gmail.com](mailto:sophienora92@gmail.com)
 
 ---
 
