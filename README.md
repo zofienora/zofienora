@@ -1,4 +1,4 @@
-# Hi, I’m Nori 👋
+# Hi, I’m Sophie Nora 👋
 
 I’m a frontend developer who loves building smooth and user-friendly web experiences. I’m super curious about tech and always excited to learn — from tiny design details to the big picture of how apps work. Whether I’m running code in the terminal or running on the treadmill, I like keeping things moving.
 
