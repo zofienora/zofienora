@@ -16,15 +16,6 @@ I’m a frontend developer who loves building smooth and user-friendly web exper
 - Harvard’s **CS50’s Introduction to Python**
 - MicroMasters in **Software Development** at the University of British Columbia
 
-## 🗂️ Current Projects
-> 🚀 **Cycle Coach (In Progress)**  
-> A cycle-aware wellness web app that offers personalized workout and nutrition suggestions based on menstrual cycle phases.
-
-> 🧰 **Personal Portfolio (In Progress)**  
-
-> 📚 **Learning Tracker (In Progress)**  
-> A minimal web app for tracking daily learning goals and resources. Helps you reflect on what you’ve learned, track habits, and organize tech topics across multiple disciplines.
-
 ## 🤝 Let’s Connect
 Always open to collaborations, mentorship, and tech conversations.
 
